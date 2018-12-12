@@ -16,7 +16,7 @@
 #### At @color[cyan](**Capital One**)
 @snapend
 
-@snap[west span-55]
+@snap[west span-45]
 @ul[spaced]
 - Card Organization
 - Fraud Team
@@ -24,7 +24,7 @@
 @ulend
 @snapend
 
-@snap[east span-45]
+@snap[east span-55]
 @img[shadow](assets/img/credit-card-application.png)
 @snapend
 
@@ -35,13 +35,13 @@
 #### For @color[cyan](**Application Fraud**)
 @snapend
 
-@snap[west span-55]
+@snap[west span-45]
 @ul[spaced]
 - First Party Fraud
 - Third Party Fraud
 @ulend
 @snapend
 
-@snap[east span-45]
+@snap[east span-55]
 @img[shadow](assets/img/app-fraud.png)
 @snapend
