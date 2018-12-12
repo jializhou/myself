@@ -1,10 +1,7 @@
 @title[Customize Slide Layout]
 
 @snap[west span-50]
-### Hello, everyone!
-
-
-
+### Hello, everyone! I am Jiali Zhou.
 @snapend
 
 @snap[east span-50]
@@ -15,7 +12,7 @@
 @title[Add A Little Imagination]
 
 @snap[north-west]
-#### Add a splash of @color[cyan](**color**) and you are ready to start presenting...
+#### At @color[cyan](**Capital One**)
 @snapend
 
 @snap[west span-55]
@@ -31,7 +28,7 @@
 @img[shadow](assets/img/conference.png)
 @snapend
 
----?image=assets/img/presenter.jpg
+---
 
 @snap[north span-100 headline]
 ## Now It's Your Turn
