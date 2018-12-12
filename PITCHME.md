@@ -1,7 +1,8 @@
 @title[Customize Slide Layout]
 
 @snap[west span-50]
-### Hello, everyone! I am Jiali Zhou.
+### Hello, everyone! 
+### I am Jiali Zhou.
 @snapend
 
 @snap[east span-50]
@@ -16,7 +17,7 @@
 @snapend
 
 @snap[west span-55]
-@ul[spaced text-white]
+@ul[spaced]
 - You will be amazed
 - What you can achieve
 - *With a little imagination...*
