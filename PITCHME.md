@@ -18,10 +18,9 @@
 
 @snap[west span-55]
 @ul[spaced]
-- You will be amazed
-- What you can achieve
-- *With a little imagination...*
-- And **GitPitch Markdown**
+- Card Organization
+- Fraud Team
+- Application Fraud
 @ulend
 @snapend
 
