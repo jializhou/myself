@@ -32,13 +32,11 @@
 @title[App Fraud]
 
 @snap[north-west]
-#### At @color[cyan](**Application Fraud**)
-@snapend
-
-@ul[spaced]
+#### Application Fraud
 - First Party Fraud
 - Third Party Fraud
-@ulend
+@snapend
+
 
 @img[shadow](assets/img/app-fraud.png)
 
