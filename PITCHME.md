@@ -33,8 +33,8 @@
 
 @snap[north-west]
 #### Application Fraud
-- First Party Fraud
-- Third Party Fraud
+##### - First Party Fraud
+##### - Third Party Fraud
 @snapend
 
 
