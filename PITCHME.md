@@ -1,23 +1,17 @@
-# Let's Get Started
-
----
-
-## Add Some Slide Candy
-
-![](assets/img/presentation.png)
-
----
 @title[Customize Slide Layout]
 
 @snap[west span-50]
-## Customize Slide Content Layout
+### Hello, everyone!
+
+
+
 @snapend
 
 @snap[east span-50]
-![](assets/img/presentation.png)
+![](assets/img/nyu_graduation.jpeg)
 @snapend
 
----?color=#E58537
+---
 @title[Add A Little Imagination]
 
 @snap[north-west]
