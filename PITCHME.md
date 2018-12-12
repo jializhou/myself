@@ -1,4 +1,4 @@
-@title[Customize Slide Layout]
+@title[Intro]
 
 @snap[west span-50]
 ### Hello, everyone! 
@@ -10,7 +10,7 @@
 @snapend
 
 ---
-@title[Add A Little Imagination]
+@title[Broad overview of C1]
 
 @snap[north-west]
 #### At @color[cyan](**Capital One**)
@@ -25,15 +25,23 @@
 @snapend
 
 @snap[east span-45]
-@img[shadow](assets/img/conference.png)
+@img[shadow](assets/img/credit-card-application.png)
 @snapend
 
 ---
+@title[App Fraud]
 
-@snap[north span-100 headline]
-## Now It's Your Turn
+@snap[north-west]
+#### At @color[cyan](**Application Fraud**)
 @snapend
 
-@snap[south span-100 text-06]
-[Click here to jump straight into the interactive feature guides in the GitPitch Docs @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
+@snap[west span-55]
+@ul[spaced]
+- First Party Fraud
+- Third Party Fraud
+@ulend
+@snapend
+
+@snap[east span-45]
+@img[shadow](assets/img/app-fraud.png)
 @snapend
