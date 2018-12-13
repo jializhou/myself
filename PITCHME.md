@@ -74,7 +74,6 @@
 
 @snap[west span-30 text-07]
 @ul[spaced]
-GitPitch Markdown**
 - Evaluation Criteria: Incremental Recall
 - Weighted Strategies
 @ulend
