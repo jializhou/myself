@@ -72,14 +72,14 @@
 #### For @color[grey](**3rd Party Fraud Model**)
 @snapend
 
-@snap[west span-45]
+@snap[west span-30]
 @ul[spaced]
-- Evaluation Criteria: Incremental Recall
-- Weighted Strategies
+- #### Evaluation Criteria: Incremental Recall
+- #### Weighted Strategies
 @ulend
 @snapend
 
-@snap[east span-55]
+@snap[east span-70]
 @img[shadow](assets/img/strategies.png)
 @snapend
 
@@ -90,7 +90,7 @@
 #### For @color[grey](**3rd Party Fraud Model**)
 @snapend
 
-@snap[west span-45]
+@snap[west span-40]
 @ul[spaced]
 - UTC(Unable to Confirm) Evaluation
 - Different treatments for training
@@ -99,9 +99,9 @@
 @ulend
 @snapend
 
-@snap[east span-55]
+@snap[east span-60]
 @img[shadow](assets/img/verify_id.png)
 @snapend
 
 ---
-Q & A ?
+## Q & A ?
