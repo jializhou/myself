@@ -53,16 +53,16 @@
 #### For @color[grey](**3rd Party Fraud Model**)
 @snapend
 
-@snap[west span-40]
+@snap[west span-40 text-07]
 @ul[spaced]
 - Objective: Add incremental fraud defense
-- Data: Network Attributes related with applicant
-- Model: GBM
+- Evaluation Criteria: Incremental Recall at Incremental Case Rate x%
+- Strategies: Weighted Sampling
 @ulend
 @snapend
 
 @snap[east span-60]
-@img[shadow](assets/img/graph.png)
+@img[shadow](assets/img/another_defense.png)
 @snapend
 
 ---
@@ -74,13 +74,13 @@
 
 @snap[west span-30 text-07]
 @ul[spaced]
-- Evaluation Criteria: Incremental Recall
-- Weighted Strategies
+- Data: Network Attributes related with applicant, Bureau Data
+- Model: GBM
 @ulend
 @snapend
 
 @snap[east span-70]
-@img[shadow](assets/img/strategies.png)
+@img[shadow](assets/img/graph.png)
 @snapend
 
 ---
@@ -93,7 +93,6 @@
 @snap[west span-40 text-07]
 @ul[spaced]
 - UTC(Unable to Confirm) Evaluation
-- Different treatments for training
 - Fundational test
 
 @ulend
