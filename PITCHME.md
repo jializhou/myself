@@ -13,7 +13,7 @@
 @title[Broad overview of C1]
 
 @snap[north-west]
-#### At @color[cyan](**Capital One**)
+#### At @color[grey](**Capital One**)
 @snapend
 
 @snap[west span-45]
@@ -32,16 +32,76 @@
 @title[App Fraud]
 
 @snap[north-west]
-#### For @color[cyan](**Application Fraud**)
+#### For @color[grey](**Application Fraud**)
 @snapend
 
-@snap[west span-45]
+@snap[west span-40]
 @ul[spaced]
 - First Party Fraud
 - Third Party Fraud
 @ulend
 @snapend
 
-@snap[east span-55]
+@snap[east span-60]
 @img[shadow](assets/img/app-fraud.png)
 @snapend
+
+---
+@title[3pf]
+
+@snap[north-west]
+#### For @color[grey](**3rd Party Fraud Model**)
+@snapend
+
+@snap[west span-40]
+@ul[spaced]
+- Objective: Add incremental fraud defense
+- Data: Network Attributes related with applicant
+- Model: GBM
+@ulend
+@snapend
+
+@snap[east span-60]
+@img[shadow](assets/img/graph.png)
+@snapend
+
+---
+@title[3pf]
+
+@snap[north-west]
+#### For @color[grey](**3rd Party Fraud Model**)
+@snapend
+
+@snap[west span-45]
+@ul[spaced]
+- Evaluation Criteria: Incremental Recall
+- Weighted Strategies
+@ulend
+@snapend
+
+@snap[east span-55]
+@img[shadow](assets/img/strategies.png)
+@snapend
+
+---
+@title[3pf]
+
+@snap[north-west]
+#### For @color[grey](**3rd Party Fraud Model**)
+@snapend
+
+@snap[west span-45]
+@ul[spaced]
+- UTC(Unable to Confirm) Evaluation
+- Different treatments for training
+- Fundational test
+
+@ulend
+@snapend
+
+@snap[east span-55]
+@img[shadow](assets/img/verify_id.png)
+@snapend
+
+---
+Q & A ?
