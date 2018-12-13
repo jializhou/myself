@@ -72,10 +72,11 @@
 #### For @color[grey](**3rd Party Fraud Model**)
 @snapend
 
-@snap[west span-30]
+@snap[west span-30 text-07]
 @ul[spaced]
-- #### Evaluation Criteria: Incremental Recall
-- #### Weighted Strategies
+GitPitch Markdown**
+- Evaluation Criteria: Incremental Recall
+- Weighted Strategies
 @ulend
 @snapend
 
@@ -90,7 +91,7 @@
 #### For @color[grey](**3rd Party Fraud Model**)
 @snapend
 
-@snap[west span-40]
+@snap[west span-40 text-07]
 @ul[spaced]
 - UTC(Unable to Confirm) Evaluation
 - Different treatments for training
