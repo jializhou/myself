@@ -35,10 +35,10 @@
 #### For @color[grey](**Application Fraud**)
 @snapend
 
-@snap[west span-40]
+@snap[west span-40 text-07]
 @ul[spaced]
-- First Party Fraud
-- Third Party Fraud
+- Third Party Fraud: Recall, both incidence rate and fraud losses prevented
+- First Party Fraud: Precision, fraud losses prevented
 @ulend
 @snapend
 
@@ -55,9 +55,9 @@
 
 @snap[west span-40 text-07]
 @ul[spaced]
+- Situation: New platform with an initial defense
 - Objective: Add incremental fraud defense
 - Evaluation Criteria: Incremental Recall at Incremental Case Rate x%
-- Strategies: Weighted Sampling
 @ulend
 @snapend
 
@@ -76,6 +76,7 @@
 @ul[spaced]
 - Data: Network Attributes related with applicant, Bureau Data
 - Model: GBM
+- Strategy: Weighted Sampling
 @ulend
 @snapend
 
